@@ -1,0 +1,391 @@
+ =====100 MeV e- on Cu SUMMARY ===== 
+
+ Total number of events:        10000
+ Mean number of charged steps:  346.52
+ Mean number of neutral steps:  138.92
+
+ energy deposit :   97.70 % E0 +-    2.82 % E0
+ charged traklen:    5.70 radl +-    0.19 radl
+ neutral traklen:   78.04 radl +-   16.06 radl
+
+ 90.00 % confinement: radius = 1.84 radl  (2.64 cm )
+
+
+ =====100 MeV e+ on Cu SUMMARY ===== 
+
+ Total number of events:        10000
+ Mean number of charged steps:  353.34
+ Mean number of neutral steps:  147.27
+
+ energy deposit :   98.45 % E0 +-    3.00 % E0
+ charged traklen:    5.72 radl +-    0.20 radl
+ neutral traklen:   83.49 radl +-   16.24 radl
+
+ 90.00 % confinement: radius = 1.78 radl  (2.55 cm )
+
+
+
+ =====10 MeV e+ on Cu SUMMARY ===== 
+
+ Total number of events:        10000
+ Mean number of charged steps:  38.49
+ Mean number of neutral steps:  16.35
+
+ energy deposit :   97.52 % E0 +-   10.01 % E0
+ charged traklen:    0.60 radl +-    0.07 radl
+ neutral traklen:    7.79 radl +-    4.66 radl
+
+ 90.00 % confinement: radius = 1.26 radl  (1.80 cm )
+
+
+=====10 MeV e- on Cu SUMMARY ===== 
+
+ Total number of events:        10000
+ Mean number of charged steps:  33.06
+ Mean number of neutral steps:  9.77
+
+ energy deposit :   92.19 % E0 +-    8.15 % E0
+ charged traklen:    0.59 radl +-    0.06 radl
+ neutral traklen:    4.03 radl +-    3.99 radl
+
+ 90.00 % confinement: radius = 2.15 radl  (3.08 cm )
+
+
+ =====1 MeV e- on Cu SUMMARY ===== 
+
+ Total number of events:        10000
+ Mean number of charged steps:  12.01
+ Mean number of neutral steps:  0.39
+
+ energy deposit :   57.08 % E0 +-   17.35 % E0
+ charged traklen:    0.05 radl +-    0.01 radl
+ neutral traklen:    0.04 radl +-    0.30 radl
+
+
+ =====1 MeV e+ on Cu SUMMARY ===== 
+
+ Total number of events:        10000
+ Mean number of charged steps:  15.73
+ Mean number of neutral steps:  4.61
+
+ energy deposit :   82.07 % E0 +-   29.73 % E0
+ charged traklen:    0.06 radl +-    0.02 radl
+ neutral traklen:    2.09 radl +-    1.94 radl
+
+
+ =====5 MeV e+ on Cu SUMMARY ===== 
+
+ Total number of events:        10000
+ Mean number of charged steps:  24.34
+ Mean number of neutral steps:  9.53
+
+ energy deposit :   95.20 % E0 +-   14.85 % E0
+ charged traklen:    0.31 radl +-    0.05 radl
+ neutral traklen:    4.25 radl +-    3.17 radl
+
+ 90.00 % confinement: radius = 1.46 radl  (2.09 cm )
+
+
+---------------------------------------------------
+new Bin size (Cu_1MeV_ele1)
+
+ =====1MeV e- on Cu SUMMARY ===== 
+
+ Total number of events:        10000
+ Mean number of charged steps:  12.01
+ Mean number of neutral steps:  0.39
+
+ energy deposit :   57.08 % E0 +-   17.35 % E0
+ charged traklen:    0.05 radl +-    0.01 radl
+ neutral traklen:    0.04 radl +-    0.30 radl
+
+
+ =====5MeV e- on Cu SUMMARY ===== 
+
+ Total number of events:        10000
+ Mean number of charged steps:  19.82
+ Mean number of neutral steps:  3.82
+
+ energy deposit :   86.18 % E0 +-   12.37 % E0
+ charged traklen:    0.29 radl +-    0.04 radl
+ neutral traklen:    1.18 radl +-    2.12 radl
+
+ =====10 MeV e- on Cu SUMMARY ===== 
+
+ Total number of events:        10000
+ Mean number of charged steps:  33.06
+ Mean number of neutral steps:  9.77
+
+ energy deposit :   92.19 % E0 +-    8.15 % E0
+ charged traklen:    0.59 radl +-    0.06 radl
+ neutral traklen:    4.03 radl +-    3.99 radl
+
+ 90.00 % confinement: radius = 2.15 radl  (3.09 cm )
+
+ =====100 MeV e- on Cu SUMMARY ===== 
+
+ Total number of events:        10000
+ Mean number of charged steps:  346.52
+ Mean number of neutral steps:  138.92
+
+ energy deposit :   97.70 % E0 +-    2.82 % E0
+ charged traklen:    5.70 radl +-    0.19 radl
+ neutral traklen:   78.04 radl +-   16.06 radl
+
+ 90.00 % confinement: radius = 1.85 radl  (2.65 cm )
+
+
+ =====100MeV e+ on Cu SUMMARY ===== 
+
+ Total number of events:        10000
+ Mean number of charged steps:  353.34
+ Mean number of neutral steps:  147.27
+
+ energy deposit :   98.45 % E0 +-    3.00 % E0
+ charged traklen:    5.72 radl +-    0.20 radl
+ neutral traklen:   83.49 radl +-   16.24 radl
+
+ 90.00 % confinement: radius = 1.78 radl  (2.56 cm )
+
+
+ =====10 MeV e+ on Cu SUMMARY ===== 
+
+ Total number of events:        10000
+ Mean number of charged steps:  38.49
+ Mean number of neutral steps:  16.35
+
+ energy deposit :   97.52 % E0 +-   10.01 % E0
+ charged traklen:    0.60 radl +-    0.07 radl
+ neutral traklen:    7.79 radl +-    4.66 radl
+
+ 90.00 % confinement: radius = 1.26 radl  (1.81 cm )
+
+
+ =====5MeV e+ on Cu SUMMARY ===== 
+
+ Total number of events:        10000
+ Mean number of charged steps:  24.34
+ Mean number of neutral steps:  9.53
+
+ energy deposit :   95.20 % E0 +-   14.85 % E0
+ charged traklen:    0.31 radl +-    0.05 radl
+ neutral traklen:    4.25 radl +-    3.17 radl
+
+ 90.00 % confinement: radius = 1.45 radl  (2.09 cm )
+
+
+
+ =====1MeV e+ on Cu SUMMARY ===== 
+
+ Total number of events:        10000
+ Mean number of charged steps:  15.73
+ Mean number of neutral steps:  4.61
+
+ energy deposit :   82.07 % E0 +-   29.73 % E0
+ charged traklen:    0.06 radl +-    0.02 radl
+ neutral traklen:    2.09 radl +-    1.94 radl
+
+
+
+
+-------------------------------
+Result with QGSP_BERT_HP physics list
+Results are saved as Cu_1MeV_posi2.root
+
+=====1MeV e+ on Cu SUMMARY ===== 
+
+ Total number of events:        10000
+ Mean number of charged steps:  15.72
+ Mean number of neutral steps:  4.58
+
+ energy deposit :   81.89 % E0 +-   29.60 % E0
+ charged traklen:    0.06 radl +-    0.02 radl
+ neutral traklen:    2.08 radl +-    1.94 radl
+
+
+ =====5MeV e+ on Cu SUMMARY ===== 
+
+ Total number of events:        10000
+ Mean number of charged steps:  24.32
+ Mean number of neutral steps:  9.43
+
+ energy deposit :   95.05 % E0 +-   15.31 % E0
+ charged traklen:    0.31 radl +-    0.05 radl
+ neutral traklen:    4.21 radl +-    3.17 radl
+
+ 90.00 % confinement: radius = 1.48 radl  (2.12 cm )
+
+
+ =====10 MeV e+ on Cu SUMMARY ===== 
+
+ Total number of events:        10000
+ Mean number of charged steps:  38.40
+ Mean number of neutral steps:  16.29
+
+ energy deposit :   97.47 % E0 +-    9.84 % E0
+ charged traklen:    0.60 radl +-    0.07 radl
+ neutral traklen:    7.70 radl +-    4.68 radl
+
+ 90.00 % confinement: radius = 1.24 radl  (1.78 cm )
+
+
+ =====100 meV e+ on Cu SUMMARY ===== 
+
+ Total number of events:        10000
+ Mean number of charged steps:  353.87
+ Mean number of neutral steps:  147.95
+
+ energy deposit :   98.27 % E0 +-    3.76 % E0
+ charged traklen:    5.70 radl +-    0.25 radl
+ neutral traklen:   83.71 radl +-   16.55 radl
+
+ 90.00 % confinement: radius = 1.80 radl  (2.58 cm )
+
+
+ =====1 MeV e- on Cu SUMMARY ===== 
+
+ Total number of events:        10000
+ Mean number of charged steps:  12.00
+ Mean number of neutral steps:  0.38
+
+ energy deposit :   57.01 % E0 +-   17.43 % E0
+ charged traklen:    0.05 radl +-    0.01 radl
+ neutral traklen:    0.04 radl +-    0.28 radl
+
+
+ =====5MeV e- on Cu SUMMARY ===== 
+
+ Total number of events:        10000
+ Mean number of charged steps:  19.83
+ Mean number of neutral steps:  3.83
+
+ energy deposit :   86.35 % E0 +-   12.07 % E0
+ charged traklen:    0.29 radl +-    0.04 radl
+ neutral traklen:    1.18 radl +-    2.08 radl
+
+ =====10 MeV e- on Cu SUMMARY ===== 
+
+ Total number of events:        10000
+ Mean number of charged steps:  32.89
+ Mean number of neutral steps:  9.74
+
+ energy deposit :   92.25 % E0 +-    8.13 % E0
+ charged traklen:    0.59 radl +-    0.06 radl
+ neutral traklen:    3.97 radl +-    3.91 radl
+
+ 90.00 % confinement: radius = 2.09 radl  (3.01 cm )
+
+ =====100 MeV e- on Cu SUMMARY ===== 
+
+ Total number of events:        10000
+ Mean number of charged steps:  345.60
+ Mean number of neutral steps:  138.58
+
+ energy deposit :   97.44 % E0 +-    3.37 % E0
+ charged traklen:    5.68 radl +-    0.23 radl
+ neutral traklen:   77.93 radl +-   16.11 radl
+
+ 90.00 % confinement: radius = 1.89 radl  (2.72 cm )
+
+
+----------------------------------------------------------
+Cu(92.8%)+H2O(7.2)
+
+ =====100 MeV e- SUMMARY ===== 
+
+ Total number of events:        10000
+ Mean number of charged steps:  384.67
+ Mean number of neutral steps:  134.53
+
+ energy deposit :   97.83 % E0 +-    3.20 % E0
+ charged traklen:    5.20 radl +-    0.20 radl
+ neutral traklen:   71.82 radl +-   15.51 radl
+
+ 90.00 % confinement: radius = 1.69 radl  (4.01 cm )
+
+
+
+ =====10 MeV e- SUMMARY ===== 
+
+ Total number of events:        10000
+ Mean number of charged steps:  36.42
+ Mean number of neutral steps:  9.42
+
+ energy deposit :   92.76 % E0 +-    7.27 % E0
+ charged traklen:    0.54 radl +-    0.05 radl
+ neutral traklen:    3.69 radl +-    3.83 radl
+
+ 90.00 % confinement: radius = 1.68 radl  (3.97 cm )
+
+
+ =====1MeV e- SUMMARY ===== 
+
+ Total number of events:        10000
+ Mean number of charged steps:  12.38
+ Mean number of neutral steps:  0.38
+
+ energy deposit :   58.44 % E0 +-   16.03 % E0
+ charged traklen:    0.04 radl +-    0.01 radl
+ neutral traklen:    0.03 radl +-    0.27 radl
+
+
+
+ =====5MeV e- SUMMARY ===== 
+
+ Total number of events:        10000
+ Mean number of charged steps:  21.00
+ Mean number of neutral steps:  3.69
+
+ energy deposit :   87.25 % E0 +-   10.56 % E0
+ charged traklen:    0.27 radl +-    0.03 radl
+ neutral traklen:    1.04 radl +-    1.93 radl
+
+ =====5MeV e+ SUMMARY ===== 
+
+ Total number of events:        10000
+ Mean number of charged steps:  25.44
+ Mean number of neutral steps:  9.29
+
+ energy deposit :   95.23 % E0 +-   14.77 % E0
+ charged traklen:    0.28 radl +-    0.04 radl
+ neutral traklen:    3.92 radl +-    2.98 radl
+
+ 90.00 % confinement: radius = 1.31 radl  (3.11 cm )
+
+
+ =====1 MeV e+ SUMMARY ===== 
+
+ Total number of events:        10000
+ Mean number of charged steps:  16.25
+ Mean number of neutral steps:  4.62
+
+ energy deposit :   81.86 % E0 +-   29.67 % E0
+ charged traklen:    0.05 radl +-    0.02 radl
+ neutral traklen:    1.98 radl +-    1.85 radl
+
+
+ =====10 MeV SUMMARY ===== 
+
+ Total number of events:        10000
+ Mean number of charged steps:  41.91
+ Mean number of neutral steps:  15.97
+
+ energy deposit :   97.72 % E0 +-    9.60 % E0
+ charged traklen:    0.55 radl +-    0.06 radl
+ neutral traklen:    7.18 radl +-    4.38 radl
+
+ 90.00 % confinement: radius = 1.13 radl  (2.69 cm )
+
+
+ ===== SUMMARY ===== 
+
+ Total number of events:        10000
+ Mean number of charged steps:  393.13
+ Mean number of neutral steps:  143.88
+
+ energy deposit :   98.61 % E0 +-    3.14 % E0
+ charged traklen:    5.22 radl +-    0.20 radl
+ neutral traklen:   77.03 radl +-   15.59 radl
+
+ 90.00 % confinement: radius = 1.68 radl  (3.97 cm )
+

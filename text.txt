@@ -1,0 +1,83 @@
+Electron of 5GeV on a cylinder of 20 radiation Length (in length) and 5 radiation length (in radius)
+
+
+ =====Cu SUMMARY ===== 
+
+ Total number of events:        500
+ Mean number of charged steps:  8571.79
+ Mean number of neutral steps:  6196.12
+
+ energy deposit :   98.19 % E0 +-    0.72 % E0
+ charged traklen:  264.31 radl +-    2.18 radl
+ neutral traklen: 4120.95 radl +-  119.57 radl
+
+ 90.00 % confinement: radius = 1.70 radl  (2.44 cm )
+
+ =====W SUMMARY ===== 
+
+ Total number of events:        500
+ Mean number of charged steps:  6870.47
+ Mean number of neutral steps:  4307.26
+
+ energy deposit :   93.49 % E0 +-    1.50 % E0
+ charged traklen:  553.59 radl +-    9.13 radl
+ neutral traklen: 4876.77 radl +-  145.50 radl
+
+ 90.00 % confinement: radius = 3.51 radl  (1.23 cm )
+
+
+ =====G10 SUMMARY ===== 
+
+ Total number of events:        500
+ Mean number of charged steps:  11584.02
+ Mean number of neutral steps:  7047.94
+
+ energy deposit :   99.84 % E0 +-    0.31 % E0
+ charged traklen:  107.96 radl +-    0.43 radl
+ neutral traklen: 1937.34 radl +-   69.08 radl
+
+ 90.00 % confinement: radius = 0.58 radl  (12.21 cm )
+
+
+ =====92.8% Cu and 7.2% Water SUMMARY ===== 
+
+ Total number of events:        5000
+ Mean number of charged steps:  8923.44
+ Mean number of neutral steps:  6071.82
+
+ energy deposit :   98.50 % E0 +-    0.66 % E0
+ charged traklen:  244.33 radl +-    1.82 radl
+ neutral traklen: 3790.62 radl +-  112.27 radl
+
+ 90.00 % confinement: radius = 1.57 radl  (3.71 cm )
+
+
+ =====Water SUMMARY ===== 
+
+ Total number of events:        500
+ Mean number of charged steps:  12199.15
+ Mean number of neutral steps:  7914.23
+
+ energy deposit :   99.94 % E0 +-    0.31 % E0
+ charged traklen:   74.12 radl +-    0.30 radl
+ neutral traklen: 1448.89 radl +-   58.43 radl
+
+ 90.00 % confinement: radius = 0.36 radl  (13.03 cm )
+
+
+ =====PbWO4 SUMMARY ===== 
+
+ Total number of events:        500
+ Mean number of charged steps:  7252.22
+ Mean number of neutral steps:  4104.80
+
+ energy deposit :   95.05 % E0 +-    0.92 % E0
+ charged traklen:  484.58 radl +-    4.98 radl
+ neutral traklen: 4215.01 radl +-  128.24 radl
+
+ 90.00 % confinement: radius = 2.92 radl  (2.60 cm )
+
+
+
+I have varied the number of events for these simulation by factor of 10.
+But I didn't see any change for radius which confines 90% of shower.
