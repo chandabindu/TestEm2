@@ -1,0 +1,10 @@
+#ignore output files
+*.root
+*.out
+*.pdf
+*.log
+*.dot
+*.lst
+
+*.o
+build*

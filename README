@@ -7,6 +7,11 @@ $Id: README 93736 2015-10-30 11:01:12Z gcosmo $
 
                             TestEm2
                             -------
+
+********************************************************************
+CG:  This code is modified to include the QGSP_BERT_HP physics list
+********************************************************************
+
 			    
      How to do shower profiles in an homogenous medium, with virtual
      voxelisation.
